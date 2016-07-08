@@ -1,0 +1,79 @@
+URL ANTERIOR:
+- http://mueblesgeneracion.com.mx/
+- http://mueblesgeneracion.guiaescolar.info/
+
+HTTPS: SI
+
+MueblesGeneracion
+	* Inicio -> https://mueblesgeneracion.com.mx
+	* Empresa -> https://mueblesgeneracion.com.mx/empresa
+	* Catalogo -> https://mueblesgeneracion.com.mx/catalogo
+		# Aulas (41 Productos) -> https://mueblesgeneracion.com.mx/aulas
+			# Sillas de paleta (8 productos)-> https://mueblesgeneracion.com.mx/aulas/sillasdepaleta
+				* Silla de paleta abatible
+				* Silla Paleta California
+				* Silla Paleta California (Polipropileno)
+				* Silla Paleta Contemporánea
+				* Silla Paleta Generación
+				* Silla Paleta Plus
+				* Silla Paleta Primaria
+				* Silla Paleta Soft Five
+			# Conjuntos (8 productos)-> https://mueblesgeneracion.com.mx/aulas/conjuntos
+			# Mesas (8 productos)-> https://mueblesgeneracion.com.mx/aulas/mesas
+			# Silleria -> https://mueblesgeneracion.com.mx/aulas/silleria
+			# Escritorios de Profesor -> https://mueblesgeneracion.com.mx/aulas/escritoriosdeprofesor
+		# Preescolar -> https://mueblesgeneracion.com.mx/preescolar
+		# Laboratorio QFB -> https://mueblesgeneracion.com.mx/laboratorioqfb
+		# Biblioteca -> https://mueblesgeneracion.com.mx/biblioteca
+		# Cómputo -> https://mueblesgeneracion.com.mx/computo
+		# Robótica -> https://mueblesgeneracion.com.mx/robotica
+		# Talleres -> https://mueblesgeneracion.com.mx/talleres
+		# Oficina -> https://mueblesgeneracion.com.mx/oficina
+		# Cafetería -> https://mueblesgeneracion.com.mx/cafeteria
+		# Mob. Especializado -> https://mueblesgeneracion.com.mx/mobiliarioespecializado
+		# Exteriores -> https://mueblesgeneracion.com.mx/exteriores
+		# Mostradores -> https://mueblesgeneracion.com.mx/mostradores
+		# Auditorios -> https://mueblesgeneracion.com.mx/auditorios
+		# Casilleros -> https://mueblesgeneracion.com.mx/casilleros
+	* Mantenimiento -> https://mueblesgeneracion.com.mx/mantenimiento
+	* Contacto -> https://mueblesgeneracion.com.mx/contacto
+	# Aviso de Privacidad -> https://mueblesgeneracion.com.mx/avisodeprivacidad
+
+
+
+Barra Gris Superior
+	Mobiliario Docente 
+	Escolar 
+	Laboratorios 
+	Administrativo 
+	Talleres Especializados 
+	Bilibiotecas 
+	Aulas 
+	Capacidades Diferentes 
+	Proyectos Especiales
+
+Barra Gris Inferior
+	Postgrados 
+	Universidades 
+	Educación Media Superior 
+	Educación Media 
+	Educación Básica 
+	Preescolar 
+	Estancias Infantiles
+
+
+NOTAS:
+
+* - Tendrá un menu visible en la página
+# - No tendrá un menu visible en la página
+
+
+Silla de Paleta Abatible
+Silla Paleta California
+Silla Paleta California
+Silla Paleta California (Polipropileno)
+Silla Paleta Contemporánea
+Silla Paleta Generación
+Silla Paleta Plus
+Silla Paleta Primaria
+Silla Paleta Soft Five

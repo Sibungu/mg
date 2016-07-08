@@ -1,0 +1,88 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+  
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+/*Cambiar el tamaño del logo*/
+.navbar-material .nav-wrapper .brand-logo img {
+    height: 150px;
+    position: relative;
+}
+
+.negritas {
+	font-weight: bold;
+}
+
+/*Cambiar el tamaño de los telefonos | index.html*/
+.telefonos {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+/*Cambiar el tamaño de la letra de los elementos del navbar*/
+nav ul a {
+	font-size: 1.3em;
+
+/*	color: #FFF;*/
+}
+
+/*Para cambiar el ancho del navbar*/
+nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+	height: 150px;
+	line-height: 150px;
+}
+
+/*Sobreescribimos el color del navbar*/
+nav.navbar-material { 
+  background: #f18d28;
+  border: none;
+}
+
+/*Sobreescribimos el color del footer*/
+footer.page-footer {
+	background: #606060;
+}
+
+@media (max-width: 600px) {
+  .navbar-material .nav-wrapper .brand-logo img {
+    height: 100px;
+  }
+
+  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+	height: 100px;
+	line-height: 100px;
+}
+
+	footer img {
+		width: 100%;
+	}
+}
+
+/*Estilo para el efecto parallax*/
+.parallax-container {
+    max-height: 400px;
+}
+
+/*Cambiar el color de los indicadores del slider*/
+.slider .indicators .indicator-item.active {
+    background-color: #f18d28;
+}
+
+/*Hacer que las imagenes ocupen todo el ancho*/
+.anchocompleto {
+	width: 100%;
+}
+
+/*Hacer que las imagenes ocupen la mitad del ancho*/
+.anchomitad {
+	width: 50%;
+}

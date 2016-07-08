@@ -1,0 +1,12 @@
+-> Incluir la animación
+-> Trabajar en los nombres de las categorías 
+-> Nombres de los productos
+-> Minificar código
+-> Agregar el router de php para manejar rutas y demas (Simple Framework PHP)
+-> Trabajar en los errores de interfaz
+-> Probar la página en diferentes resoluciones
+-> Trabajar en la página de Aviso de privacidad
+-> Trabajar en la página de Empresa
+-> Tratar de añadir el botón flotante (Si es posible)
+-> Trabajar con los problemas del sidenav en mobile (Sobretodo hacer funcionar correctamente el dropdown)
+-> Trabajar en los breadcrumbs

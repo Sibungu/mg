@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+      <meta name="theme-color" content="#f18d28">
+    <title>Muebles Decoración</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.0/flexboxgrid.min.css">
+    <!-- Slider -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
+    
+  </head>
+  <body>
+    <!-- Tutorial Flexbox GRID  -->
+    <!-- https://www.youtube.com/watch?v=XMQZZXEdRoQ -->
+    <!-- http://www.falconmasters.com -->
+    <header>
+      <div class="logo-menu">
+        <div class="container">
+          <div class="row middle-xs between-xs">
+            <div class="logo col-xs-12 col-sm-4 center-xs start-sm"><img id="imgsrc" src="../img/logocuadro200.png"></div>
+            <nav class="menu col-xs-12 col-sm-8 center-xs end-sm">
+              <a href="#">Inicio</a>
+              <a href="#">Empresa</a>
+              <a href="#">Catalogo</a>
+              <a href="#">Mantenimiento</a>
+              <a href="#">Contacto</a>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="submenu">
+        <div class="container">
+          <div class="row center-xs">
+            <div class="col-xs">
+              <nav>
+                <a href="#">Populares</a>
+                <a href="#">Recientes</a>
+                <a href="#">Favoritos</a>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div> -->
+    </header>
+
+        <div class="swiper-container">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="http://lorempixel.com/1366/768/city/2" alt=""></div>
+            <div class="swiper-slide"><img src="http://lorempixel.com/1366/768/city/3" alt=""></div>
+          </div>
+          <!-- Add Pagination -->
+          <div class="swiper-pagination"></div>
+          <!-- Add Arrows -->
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+        </div>
+
+    <div class="main">
+      <div class="container">
+        <div class="row around-xs">
+          <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
+            <img src="http://lorempixel.com/470/470/city/1" alt="">
+          </div>
+          <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
+            <img src="http://lorempixel.com/470/470/city/2" alt="">
+          </div>
+          <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
+            <img src="http://lorempixel.com/470/470/city/3" alt="">
+          </div>
+          <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
+            <img src="http://lorempixel.com/470/470/city/4" alt="">
+          </div>
+          <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
+            <img src="http://lorempixel.com/470/470/city/5" alt="">
+          </div>
+          <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
+            <img src="http://lorempixel.com/470/470/city/6" alt="">
+          </div>
+          <div class="thumb col-xs-6 col-sm-4 col-md-3 ">
+            <img src="http://lorempixel.com/470/470/city/7" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="row middle-xs between-xs">
+          <div class="col-xs-12 col-sm-4">
+            <div class="nav">
+              <a href="#">Postgrados</a>
+              <a href="#">Universidades</a>
+              <a href="#">Educación Media Superior</a>
+              <a href="#">Educación Media</a>
+              <a href="#">Educación Basica</a>
+              <a href="#">Preescolar</a>
+              <a href="#">Estancias Infantiles</a>
+              <a href="#">Inicio</a>
+              <a href="#">Trabajos</a>
+              <a href="#">Terminos y Condiciones</a>
+              <a href="#">Contacto</a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-4">
+            <div class="logo">FalconMasters</div>
+          </div>
+        </div>
+      </div>
+    </body>
+    <!-- Slider -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.min.js"></script>
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+    pagination: '.swiper-pagination',
+    nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+    slidesPerView: 1,
+    paginationClickable: true,
+    spaceBetween: 30,
+    loop: true,
+    effect: 'fade',
+    keyboardControl: true
+    });
+    </script>
+  </body>
+</html>
+
+
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
